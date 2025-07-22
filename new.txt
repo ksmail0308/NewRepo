@@ -1,2 +1,1 @@
 New Repository is created and Modified, Changes done at Repository.
-Accessed by changing the directory.
